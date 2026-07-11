@@ -1,0 +1,5 @@
+# Ignorar o arquivo de teste
+Testes.c
+
+# Ignorar a pasta de saída
+/output
